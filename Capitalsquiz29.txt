@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    Country Capitals Quiz (Form 29)
+
+1. What is the capital of Albania?
+    A. Madrid
+    B. Tirana
+    C. Stockholm
+    D. Bridgetown
+
+2. What is the capital of Cuba?
+    A. Mogadishu
+    B. Havana
+    C. Antananarivo
+    D. Lima
+
+3. What is the capital of Sierra Leone?
+    A. Mogadishu
+    B. Beijing
+    C. Freetown
+    D. Prague
+
+4. What is the capital of Libya?
+    A. South Tarawa
+    B. Quito
+    C. Apia
+    D. Tripoli
+
+5. What is the capital of Rwanda?
+    A. Oslo
+    B. Kigali
+    C. Georgetown
+    D. Bogotá
+
+6. What is the capital of Latvia?
+    A. Riga
+    B. St. John's
+    C. Madrid
+    D. Panama City
+
+7. What is the capital of Liberia?
+    A. Manila
+    B. Muscat
+    C. Madrid
+    D. Monrovia
+
+8. What is the capital of Honduras?
+    A. Jakarta
+    B. Nuku'alofa
+    C. Tegucigalpa
+    D. Antananarivo
+
+9. What is the capital of Belgium?
+    A. Luxembourg City
+    B. Sucre
+    C. Dhaka
+    D. Brussels
+
+10. What is the capital of Malawi?
+    A. Harare
+    B. Tunis
+    C. Lilongwe
+    D. Rome
+
+11. What is the capital of Azerbaijan?
+    A. Panama City
+    B. Baku
+    C. Beirut
+    D. Tripoli
+
+12. What is the capital of Panama?
+    A. Sucre
+    B. Seoul
+    C. Panama City
+    D. Mbabane
+
+13. What is the capital of Eritrea?
+    A. Asmara
+    B. Phnom Penh
+    C. Sana'a
+    D. Antananarivo
+
+14. What is the capital of Sudan?
+    A. Khartoum
+    B. Lomé
+    C. Sofia
+    D. Sana'a
+
+15. What is the capital of South Korea?
+    A. Antananarivo
+    B. Prague
+    C. Seoul
+    D. Abu Dhabi
+
+16. What is the capital of Central African Republic?
+    A. Bangui
+    B. Port Moresby
+    C. Vientiane
+    D. Budapest
+
+17. What is the capital of Croatia?
+    A. Algiers
+    B. Port Vila
+    C. Zagreb
+    D. Monaco
+
+18. What is the capital of Andorra?
+    A. Tirana
+    B. Andorra la Vella
+    C. Yerevan
+    D. Lomé
+
+19. What is the capital of Burkina Faso?
+    A. Kinshasa
+    B. Ouagadougou
+    C. Wellington
+    D. Dodoma
+
+20. What is the capital of Gabon?
+    A. Podgorica
+    B. Brasília
+    C. Libreville
+    D. Algiers
+
+21. What is the capital of Kosovo?
+    A. Tegucigalpa
+    B. Kinshasa
+    C. Ottawa
+    D. Pristina
+
+22. What is the capital of Bahrain?
+    A. Manama
+    B. Port Moresby
+    C. Lima
+    D. Cairo
+
+23. What is the capital of Afghanistan?
+    A. Yerevan
+    B. Windhoek
+    C. Kabul
+    D. Malé
+
+24. What is the capital of Vietnam?
+    A. Tripoli
+    B. Abuja
+    C. Lusaka
+    D. Hanoi
+
+25. What is the capital of Mauritius?
+    A. Lilongwe
+    B. Port Louis
+    C. Bridgetown
+    D. Jerusalem
+
+26. What is the capital of Kiribati?
+    A. South Tarawa
+    B. Majuro
+    C. Rome
+    D. Caracas
+
+27. What is the capital of Sweden?
+    A. Stockholm
+    B. Kyiv
+    C. Sofia
+    D. Roseau
+
+28. What is the capital of Jamaica?
+    A. Kingston
+    B. Belmopan
+    C. Riga
+    D. Baghdad
+
+29. What is the capital of Australia?
+    A. Taipei
+    B. Pyongyang
+    C. Canberra
+    D. Accra
+
+30. What is the capital of New Zealand?
+    A. Havana
+    B. Funafuti
+    C. Wellington
+    D. Copenhagen
+
+31. What is the capital of Italy?
+    A. Kinshasa
+    B. Bishkek
+    C. Paris
+    D. Rome
+
+32. What is the capital of Madagascar?
+    A. Antananarivo
+    B. Caracas
+    C. Victoria
+    D. St. George's
+
+33. What is the capital of Finland?
+    A. Bridgetown
+    B. Helsinki
+    C. Tunis
+    D. Asmara
+
+34. What is the capital of Timor-Leste?
+    A. Vaduz
+    B. Nassau
+    C. Monrovia
+    D. Dili
+
+35. What is the capital of Portugal?
+    A. Caracas
+    B. Lisbon
+    C. Dublin
+    D. Port Moresby
+
+36. What is the capital of Malaysia?
+    A. Tokyo
+    B. Yaoundé
+    C. Riga
+    D. Kuala Lumpur
+
+37. What is the capital of Equatorial Guinea?
+    A. Malabo
+    B. Washington, D.C.
+    C. Bandar Seri Begawan
+    D. Sana'a
+
+38. What is the capital of Montenegro?
+    A. Abuja
+    B. South Tarawa
+    C. Podgorica
+    D. Athens
+
+39. What is the capital of Monaco?
+    A. Moscow
+    B. Monaco
+    C. St. John's
+    D. Libreville
+
+40. What is the capital of Paraguay?
+    A. London
+    B. Asunción
+    C. Luanda
+    D. Taipei
+
+41. What is the capital of Saint Kitts and Nevis?
+    A. Basseterre
+    B. Lusaka
+    C. Port Moresby
+    D. Islamabad
+
+42. What is the capital of Liechtenstein?
+    A. Vaduz
+    B. Tokyo
+    C. Damascus
+    D. Seoul
+
+43. What is the capital of Slovakia?
+    A. Dodoma
+    B. Prague
+    C. Accra
+    D. Bratislava
+
+44. What is the capital of Tonga?
+    A. Stockholm
+    B. Nuku'alofa
+    C. Hanoi
+    D. Vientiane
+
+45. What is the capital of South Africa?
+    A. Port-au-Prince
+    B. Ngerulmud
+    C. Pretoria
+    D. Harare
+
+46. What is the capital of Iran?
+    A. Lilongwe
+    B. Nassau
+    C. Bucharest
+    D. Tehran
+
+47. What is the capital of Sao Tome and Principe?
+    A. São Tomé
+    B. Kabul
+    C. Lomé
+    D. Damascus
+
+48. What is the capital of France?
+    A. Taipei
+    B. Nur-Sultan
+    C. Paris
+    D. Manama
+
+49. What is the capital of Serbia?
+    A. Mexico City
+    B. Dushanbe
+    C. Belgrade
+    D. Gaborone
+
+50. What is the capital of Greece?
+    A. Dublin
+    B. Berlin
+    C. Athens
+    D. Praia
+

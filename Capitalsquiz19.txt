@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    Country Capitals Quiz (Form 19)
+
+1. What is the capital of Germany?
+    A. Beijing
+    B. Jakarta
+    C. Baku
+    D. Berlin
+
+2. What is the capital of Finland?
+    A. Helsinki
+    B. Monaco
+    C. Rabat
+    D. Amman
+
+3. What is the capital of Brunei?
+    A. Antananarivo
+    B. Bandar Seri Begawan
+    C. Conakry
+    D. London
+
+4. What is the capital of Greece?
+    A. Canberra
+    B. Sucre
+    C. Nairobi
+    D. Athens
+
+5. What is the capital of Austria?
+    A. Vienna
+    B. Prague
+    C. Madrid
+    D. Manama
+
+6. What is the capital of Nicaragua?
+    A. Bissau
+    B. Managua
+    C. Juba
+    D. Podgorica
+
+7. What is the capital of Belarus?
+    A. Pretoria
+    B. Kabul
+    C. Minsk
+    D. Rome
+
+8. What is the capital of Norway?
+    A. Phnom Penh
+    B. Brussels
+    C. Oslo
+    D. Conakry
+
+9. What is the capital of Comoros?
+    A. Vatican City
+    B. Moroni
+    C. Asunción
+    D. Asmara
+
+10. What is the capital of Burkina Faso?
+    A. Asmara
+    B. Tashkent
+    C. Ouagadougou
+    D. Luanda
+
+11. What is the capital of Ireland?
+    A. Honiara
+    B. Porto-Novo
+    C. Bangkok
+    D. Dublin
+
+12. What is the capital of Mexico?
+    A. Mexico City
+    B. Dhaka
+    C. Reykjavik
+    D. Sofia
+
+13. What is the capital of Kyrgyzstan?
+    A. Santo Domingo
+    B. Kathmandu
+    C. Bishkek
+    D. Quito
+
+14. What is the capital of Romania?
+    A. Bucharest
+    B. Niamey
+    C. Yerevan
+    D. Nouakchott
+
+15. What is the capital of Syria?
+    A. Dushanbe
+    B. Yerevan
+    C. Damascus
+    D. Manila
+
+16. What is the capital of New Zealand?
+    A. Vienna
+    B. Windhoek
+    C. Wellington
+    D. Yaren District
+
+17. What is the capital of United Arab Emirates?
+    A. Abu Dhabi
+    B. Mbabane
+    C. Dushanbe
+    D. Ottawa
+
+18. What is the capital of Mongolia?
+    A. London
+    B. Santiago
+    C. Bangui
+    D. Ulaanbaatar
+
+19. What is the capital of India?
+    A. Niamey
+    B. New Delhi
+    C. Praia
+    D. Jakarta
+
+20. What is the capital of Lithuania?
+    A. Bern
+    B. Canberra
+    C. Vilnius
+    D. Paramaribo
+
+21. What is the capital of Italy?
+    A. Rome
+    B. Colombo
+    C. Abu Dhabi
+    D. Bissau
+
+22. What is the capital of Angola?
+    A. Manila
+    B. Luanda
+    C. Brasília
+    D. Madrid
+
+23. What is the capital of Saudi Arabia?
+    A. Ljubljana
+    B. Riyadh
+    C. Naypyidaw
+    D. Freetown
+
+24. What is the capital of Iceland?
+    A. Ngerulmud
+    B. Budapest
+    C. Reykjavik
+    D. Monrovia
+
+25. What is the capital of Congo (Congo-Brazzaville)?
+    A. Berlin
+    B. Kingstown
+    C. Tehran
+    D. Brazzaville
+
+26. What is the capital of Burundi?
+    A. Beijing
+    B. Gitega
+    C. Panama City
+    D. Podgorica
+
+27. What is the capital of Switzerland?
+    A. Paris
+    B. Bern
+    C. Buenos Aires
+    D. Victoria
+
+28. What is the capital of Tanzania?
+    A. Dodoma
+    B. Majuro
+    C. Harare
+    D. Prague
+
+29. What is the capital of Nauru?
+    A. Seoul
+    B. Bratislava
+    C. Yaren District
+    D. Bandar Seri Begawan
+
+30. What is the capital of Moldova?
+    A. Georgetown
+    B. Niamey
+    C. Chisinau
+    D. Pretoria
+
+31. What is the capital of Kosovo?
+    A. Asunción
+    B. London
+    C. Pristina
+    D. Washington, D.C.
+
+32. What is the capital of Grenada?
+    A. St. George's
+    B. Luxembourg City
+    C. Nairobi
+    D. Port Moresby
+
+33. What is the capital of Afghanistan?
+    A. Kabul
+    B. Malabo
+    C. Washington, D.C.
+    D. Rabat
+
+34. What is the capital of Suriname?
+    A. Yerevan
+    B. Ankara
+    C. Yaren District
+    D. Paramaribo
+
+35. What is the capital of Nepal?
+    A. Dublin
+    B. Rabat
+    C. Kathmandu
+    D. Paramaribo
+
+36. What is the capital of Chad?
+    A. Lilongwe
+    B. Sofia
+    C. Kabul
+    D. N'Djamena
+
+37. What is the capital of Kazakhstan?
+    A. Praia
+    B. Antananarivo
+    C. Nur-Sultan
+    D. Thimphu
+
+38. What is the capital of Chile?
+    A. Jerusalem
+    B. Santiago
+    C. Conakry
+    D. Ankara
+
+39. What is the capital of South Africa?
+    A. Valletta
+    B. Pretoria
+    C. Harare
+    D. Warsaw
+
+40. What is the capital of Armenia?
+    A. Yerevan
+    B. Bishkek
+    C. Pristina
+    D. Luanda
+
+41. What is the capital of Turkey?
+    A. Ankara
+    B. Baku
+    C. Doha
+    D. Ouagadougou
+
+42. What is the capital of Zambia?
+    A. Baghdad
+    B. Luxembourg City
+    C. Yaren District
+    D. Lusaka
+
+43. What is the capital of Cabo Verde?
+    A. Beijing
+    B. Hanoi
+    C. Bogotá
+    D. Praia
+
+44. What is the capital of Malaysia?
+    A. Mbabane
+    B. Islamabad
+    C. Kuala Lumpur
+    D. Copenhagen
+
+45. What is the capital of Uzbekistan?
+    A. St. John's
+    B. Tashkent
+    C. Windhoek
+    D. Prague
+
+46. What is the capital of Honduras?
+    A. Moroni
+    B. Vienna
+    C. Tegucigalpa
+    D. Nouakchott
+
+47. What is the capital of Uruguay?
+    A. Bangui
+    B. Lima
+    C. Oslo
+    D. Montevideo
+
+48. What is the capital of Malawi?
+    A. Lilongwe
+    B. San Marino
+    C. Bratislava
+    D. Gaborone
+
+49. What is the capital of Somalia?
+    A. Montevideo
+    B. Basseterre
+    C. Mogadishu
+    D. Lisbon
+
+50. What is the capital of Botswana?
+    A. Mexico City
+    B. Gaborone
+    C. Vienna
+    D. Tashkent
+
